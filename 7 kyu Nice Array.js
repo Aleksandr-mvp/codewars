@@ -14,3 +14,5 @@ const isNice = arr => {
 };
 
 isNice([6, 8]);
+
+
